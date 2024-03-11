@@ -9,13 +9,13 @@
 <h1 align="center">ChiqueChick Store</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/jeffjiang13/react-ecommerce?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/albertboyd/react-ecommerce?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/jeffjiang13/react-ecommerce?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/albertboyd/react-ecommerce?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeffjiang13/react-ecommerce?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/albertboyd/react-ecommerce?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/jeffjiang13/react-ecommerce?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/albertboyd/react-ecommerce?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/react-ecommerce?color=56BEB8" /> -->
 
@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/jeffjiang13" target="_blank">Author</a>
+  <a href="https://github.com/albertboyd" target="_blank">Author</a>
 </p>
 
 <br>
@@ -92,7 +92,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/jeffjiang13/react-ecommerce
+$ git clone https://github.com/albertboyd/react-ecommerce
 
 # Access
 $ cd react-ecommerce
@@ -111,7 +111,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/jeffjiang13" target="_blank">Jeff Jiang</a>
+Made with :heart: by <a href="https://github.com/albertboyd" target="_blank">Albert Boyd</a>
 
 &#xa0;
 

@@ -10,7 +10,7 @@ module.exports = ({ env }) => ({
   settings: {
     cors: {
       enabled: true,
-      origin: ['http://localhost:3000', "https://jj-react-ecommerce.vercel.app/"], // Add your frontend URL here
+      origin: ['http://localhost:3000', "https://albert-react-ecommerce.vercel.app/"], // Add your frontend URL here
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
       headers: ['Content-Type', 'Authorization', 'X-Frame-Options'],
     },
